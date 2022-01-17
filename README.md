@@ -1,2 +1,1 @@
-# quora-question-pairs
-Identify similar questions on Quora platform
+https://www.kaggle.com/c/quora-insincere-questions-classification/
