@@ -1,1 +1,1 @@
-https://www.kaggle.com/c/quora-insincere-questions-classification/
+this repo is for kaggle competitions code.
