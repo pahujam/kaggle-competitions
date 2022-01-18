@@ -1,6 +1,6 @@
 # custom lines
 data/
-embeddings/
+word-vectors/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
